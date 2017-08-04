@@ -1,2 +1,2 @@
 # reactstore
-React Store implementatin
+React Store implementation
